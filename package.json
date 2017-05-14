@@ -22,7 +22,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/awslabs/aws-serverless-express.git"
+    "url": "https://github.com/miguelslemos/aws-serverless-express.git"
   },
   "engines": {
     "node": ">=4"
